@@ -19,8 +19,10 @@ git add
 git commit
 git branch
 ```
-*the easy way is to learn all this command is practice
-*keep work hard
-*work hard is the key to success
+
+
+_the easy way is to learn all this command is practice
+_keep work hard
+-work hard is the key to success
 
 
