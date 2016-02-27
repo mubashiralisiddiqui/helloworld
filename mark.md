@@ -38,5 +38,5 @@ Follow me on git hub : [MUBASHIR ALI @ GIT HUB] (https://github.com/mubashiralis
 
 THIS  IS SOME USEFUL:[EMOJI CODES](http://www.emoji-cheat-sheet.com/). 
 
-THE *IS USE FOR ITALIC* AND **IS USE FOR BOLD** 
+THE \*IS USE FOR ITALIC\* AND \**IS USE FOR BOLD\** 
 
