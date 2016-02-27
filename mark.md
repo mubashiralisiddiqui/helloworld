@@ -25,4 +25,8 @@ git branch
 - keep work hard
 - work hard is the key to success
 
+- [] choose wat you want 
+- [] the lazyness 
+- [x] hard work
+
 
