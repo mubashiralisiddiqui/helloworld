@@ -21,8 +21,8 @@ git branch
 ```
 
 
-_the easy way is to learn all this command is practice
-_keep work hard
--work hard is the key to success
+_ the easy way is to learn all this command is practice
+_ keep work hard
+- work hard is the key to success
 
 
