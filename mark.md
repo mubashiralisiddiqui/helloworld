@@ -12,5 +12,12 @@ __this is also bold__
 _this is also italic_
 ***bold &italic***
 
+some basic commands are:
+```
+git status 
+git add 
+git commit
+git branch
+```
 
 
