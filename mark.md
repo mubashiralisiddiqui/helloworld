@@ -5,11 +5,12 @@
 #####heading five#####
 ######heading six######
 
-**this is bold **
+**this is bold**
 __this is also bold__
 
 *this is italic*
 _this is also italic_
+***bold &italic***
 
 
 
