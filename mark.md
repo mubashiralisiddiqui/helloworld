@@ -28,7 +28,8 @@ git branch
 - [ ] choose wat you want 
 - [ ] the lazyness 
 - [x] hard work
-a format 
+
+a format :
 > checking another 
 
 @mubashir :+1: this is the some format to markdown and  its ready to merge :shipit:
