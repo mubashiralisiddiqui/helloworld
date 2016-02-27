@@ -34,3 +34,5 @@ a format :
 
 @mubashir :+1: this is the some format to markdown and  its ready to merge :shipit:
 
+Follow me on git hub : [MUBASHIR ALI @ GIT HUB] (https://github.com/mubashiralisiddiqui).
+
